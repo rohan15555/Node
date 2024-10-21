@@ -1,0 +1,15 @@
+{
+  "name": "lowercase_program",
+  "version": "1.0.0",
+  "main": "lowercase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lower-case": "^2.0.2"
+  }
+}
